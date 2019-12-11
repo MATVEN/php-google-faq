@@ -4,11 +4,16 @@
     <meta charset="utf-8">
     <title></title>
     <?php
-
+    include 'data.php';
      ?>
   </head>
   <body>
-    <?php
-     ?>
+    <div class="container">
+      <?php
+
+      include 'helper.php';
+
+       ?>
+    </div>
   </body>
 </html>
